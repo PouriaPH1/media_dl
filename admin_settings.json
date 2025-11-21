@@ -1,0 +1,12 @@
+{
+  "ADMIN_IDS": [
+    5019214713
+  ],
+  "allowed_domains": [
+    "snapchat.com",
+    "facebook.com",
+    "soundcloud.com",
+    "tiktok.com"
+  ],
+  "youtube_selfbot_bot_username": "@TopSaverBot"
+}

@@ -1,0 +1,12 @@
+shazamio
+telethon
+python-dotenv
+spotipy
+beautifulsoup4
+yt-dlp 
+aiosqlite
+tabulate 
+aiohttp
+setuptools
+cryptg
+pillow

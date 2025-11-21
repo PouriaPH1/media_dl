@@ -1,0 +1,47 @@
+[
+  {
+    "pattern": "https://t\\.me/[\\w\\d_]+/s/\\d+",
+    "bot_username": "@Dl_telegram_Robot",
+    "media_filter": null
+  },
+  {
+    "pattern": "https?://(?:www\\.)?threads\\.(?:net|com)/.*/post/[^/?#]+(?:\\?[^\\s]*)?",
+    "bot_username": "@abbasaghaa_bot",
+    "media_filter": null
+  },
+  {
+    "pattern": "https?://(?:www\\.)?instagram\\.com/(?:p|reel|tv)/[A-Za-z0-9_-]+/?(?:\\?[^\\s]*)?",
+    "bot_username": "@allsaverbot",
+    "media_filter": null
+  },
+  {
+    "pattern": "https?://(?:www\\.)?instagram\\.com/stories/[^/]+/\\d+/?(?:\\?[^\\s]*)?",
+    "bot_username": "@allsaverbot",
+    "media_filter": null
+  },
+  {
+    "pattern": "^https:\\/\\/t\\.me\\/([A-Za-z0-9_]{5,32})\\/(\\d+)$",
+    "bot_username": "@ForwardLockBot",
+    "media_filter": null
+  },
+  {
+    "pattern": "https?://(www\\.)?(twitter|x)\\.com/.+/status/\\d+",
+    "bot_username": "@RegaTwitter_Bot",
+    "media_filter": null
+  },
+  {
+    "pattern": "https?://(?:www\\.)?castbox\\.fm/[^\\s]+",
+    "bot_username": "@RegaCastbox_Bot",
+    "media_filter": "audio_only"
+  },
+  {
+    "pattern": "https?://(www\\.)?(rj\\.app/(m|v)/[\\w\\d]+|((play\\.)?radiojavan\\.com)/.+)",
+    "bot_username": "@DownloadiaBot",
+    "media_filter": "audio_only"
+  },
+  {
+    "pattern": "https?://open\\.spotify\\.com/track/[A-Za-z0-9]+(?:\\?[^\\s]*)?$",
+    "bot_username": "@RegaSpotify_Bot",
+    "media_filter": "audio_only"
+  }
+]
